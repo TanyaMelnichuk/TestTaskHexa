@@ -522,7 +522,7 @@ header {
 
 .carousel-item {
     height: 100%;
-    min-height: 110vh;
+    min-height: 900px;
 }
 
 .carousel {
